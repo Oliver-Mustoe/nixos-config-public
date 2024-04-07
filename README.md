@@ -1,6 +1,5 @@
 # nixos-config
-Need to use laptop with the laptop since it's graphics card is wacky lol
-
+Need to make an actual readme lol - but you will need to figure out your nividia stuff :)
 ```
-sudo mv laptop-configuration.nix /etc/nixos/configuration.nix
+sudo cp /etc/nixos/hardware-configuration.nix ./system-configurations/laptop01/hardware-configuration.nix
 ```
